@@ -1,5 +1,5 @@
 {
-    "name": "colinodell/omnipay-bundle",
+    "name": "maciejmiara/omnipay-bundle",
     "description": "Omnipay bundle for Symfony",
     "keywords": ["omnipay", "payment", "bundle"],
     "homepage": "https://github.com/colinodell/omnipay-bundle",
